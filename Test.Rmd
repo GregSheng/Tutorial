@@ -8,6 +8,7 @@ output: html_document
 
 # Load packages
 ```{r}
-library(sf)
+
+library(janitor)
 ```
 
